@@ -32,7 +32,7 @@ class Basket
      * get the total
      * @return string
      */
-    public function total()
+    public function total(): string
     {
         $total      = 0.00;
         $itemCounts = array_count_values($this->items);
