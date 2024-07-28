@@ -72,7 +72,7 @@ public function reset()
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/yourusername/acme-widget-co-sales-system.git
+git clone https://github.com/harshanD/acme-widget
 ```
 
 2. Navigate to the project directory:
